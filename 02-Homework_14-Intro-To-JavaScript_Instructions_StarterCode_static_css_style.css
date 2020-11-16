@@ -10,6 +10,10 @@ body {
   margin: 0;
 }
 
+#fake{
+  color: rgb(66, 68, 94);
+  font-style: inherit;
+}
 /* The wrapper contains all of the page's content besides the footer, which is pushed to the bottom of the page */
 .wrapper {
   position: relative;
@@ -98,7 +102,7 @@ select {
   padding: 20px;
   margin: 0;
   background: black;
-  background-image: url("../images/nasa.jpg");
+  background-image: url("https://www.casino.org/assets/media/images/series/ufo-odds/1979November9.jpg");
   background-attachment: fixed;
   background-position: bottom center;
   background-size: cover;
@@ -116,6 +120,7 @@ select {
   animation: subtitle 1.2s forwards linear;
   animation-delay: 1.2s;
 }
+
 
 /* input placeholder color changes */
 .form-control::-webkit-input-placeholder {
